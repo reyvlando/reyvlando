@@ -1,20 +1,17 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Reyvlando 👋
 ## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 🚀 I'm currently joining Independent Study at Zenius in Data Analytics
+- 📥 reach me on : reyvlandorizal@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Business Management - Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/mb/id/beranda/) | Surabaya `2017-now`
+   - Laboratorium Assistant at Business Analytics and Strategy Laboratory
+   - Vice Manager of Business Project in Student Union
+   - Talent Management of U-Part Consulting
+ #### 2. [SMA Negeris 1 Gresik](https://sman1gresik.sch.id/) | MIPA | Gresik `2014-2017`
+   - Vice Chairman of Remaja Masjid
+   - Project Officer of Competition of Islamic Art in East Java
 
 ## Work Experience:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
