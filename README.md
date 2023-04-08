@@ -14,15 +14,12 @@
    - Project Officer of Competition of Islamic Art in East Java
 
 ---
+## Portofolio:
 
-### Languages and Tools:
+#### Visualizing Data with Google Colab
+   
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 
-<br />
-<br />
-
----
 ### Connect with me:
 
 
